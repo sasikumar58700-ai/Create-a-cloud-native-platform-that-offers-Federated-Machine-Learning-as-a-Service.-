@@ -1,0 +1,5 @@
+{
+  "name": "Fed ML",
+  "description": "A modern Federated Machine Learning as a Service platform simulation (Fed ML) with real-time dashboard and privacy-preserving model aggregation.",
+  "requestFramePermissions": []
+}
